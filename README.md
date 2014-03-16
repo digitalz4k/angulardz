@@ -1,4 +1,4 @@
-# generator-dz-angular [![Build Status](https://secure.travis-ci.org/digitalz4k/generator-dz-angular.png?branch=master)](https://travis-ci.org/digitalz4k/generator-dz-angular)
+# DZ-Angular [![Build Status](https://secure.travis-ci.org/digitalz4k/generator-dz-angular.png?branch=master)](https://travis-ci.org/digitalz4k/generator-dz-angular)
 
 > [Yeoman](http://yeoman.io) generator
 
