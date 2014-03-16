@@ -1,7 +1,7 @@
 # DZ-Angular
 Simple & minimalist AngularJS Yeoman generator. 
 > Just install & start the good work !
-
+> http://digitalz4k.github.io/angulardz/
 
 ## Getting Started
 

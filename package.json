@@ -1,13 +1,13 @@
 {
   "name": "generator-dz-angular",
-  "version": "0.0.0",
-  "description": "Yeoman generator",
+  "version": "0.0.1",
+  "description": "Simple & minimalist Yeoman generator for AngularJS.",
   "license": "MIT",
   "main": "app/index.js",
   "repository": "digitalz4k/generator-dz-angular",
   "author": {
-    "name": "",
-    "email": "",
+    "name": "Leonardo da Silva",
+    "email": "digitalz4k@gmail.com",
     "url": "https://github.com/digitalz4k"
   },
   "engines": {
@@ -20,7 +20,7 @@
     "app"
   ],
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator", "angularjs", "css", "html", "services", "controllers", "partials"
   ],
   "dependencies": {
     "yeoman-generator": "~0.16.0",
