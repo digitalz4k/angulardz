@@ -1,11 +1,15 @@
 # DZ-Angular
-Simple & minimalist AngularJS Yeoman generator. 
-> Just install & start the good work !
-> http://digitalz4k.github.io/angulardz/
+Simple & minimalist Yeoman generator for AngularJS. 
 
-## Getting Started
+```
+> Visit the page of DZ-Angular: http://digitalz4k.github.io/angulardz/
+> Read the incoming options and releases.
+> Install & START THE GOOD WORK !
+```
 
-### What is Yeoman?
+## HAVE FUN @WORK
+
+##### What is Yeoman?
 
 Trick question. It's not a thing. It's this guy:
 
