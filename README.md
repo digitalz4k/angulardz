@@ -1,6 +1,6 @@
-# DZ-Angular [![Build Status](https://secure.travis-ci.org/digitalz4k/generator-dz-angular.png?branch=master)](https://travis-ci.org/digitalz4k/generator-dz-angular)
-
-> [Yeoman](http://yeoman.io) generator
+# DZ-Angular
+Simple & minimalist AngularJS Yeoman generator. 
+> Just install & start the good work !
 
 
 ## Getting Started
